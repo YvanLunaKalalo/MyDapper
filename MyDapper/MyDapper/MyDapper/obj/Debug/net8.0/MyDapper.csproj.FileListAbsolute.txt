@@ -22,3 +22,28 @@ C:\Users\student11\Documents\YLK\MyDapper\MyDapper\bin\Debug\net8.0\runtimes\win
 C:\Users\student11\Documents\YLK\MyDapper\MyDapper\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
 C:\Users\student11\Documents\YLK\MyDapper\MyDapper\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\student11\Documents\YLK\MyDapper\MyDapper\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Yvan\All Projects\Visual Studio 2022 Projects\MyDapper\MyDapper\MyDapper\MyDapper\bin\Debug\net8.0\MyDapper.exe
+C:\Users\Yvan\All Projects\Visual Studio 2022 Projects\MyDapper\MyDapper\MyDapper\MyDapper\bin\Debug\net8.0\MyDapper.deps.json
+C:\Users\Yvan\All Projects\Visual Studio 2022 Projects\MyDapper\MyDapper\MyDapper\MyDapper\bin\Debug\net8.0\MyDapper.runtimeconfig.json
+C:\Users\Yvan\All Projects\Visual Studio 2022 Projects\MyDapper\MyDapper\MyDapper\MyDapper\bin\Debug\net8.0\MyDapper.dll
+C:\Users\Yvan\All Projects\Visual Studio 2022 Projects\MyDapper\MyDapper\MyDapper\MyDapper\bin\Debug\net8.0\MyDapper.pdb
+C:\Users\Yvan\All Projects\Visual Studio 2022 Projects\MyDapper\MyDapper\MyDapper\MyDapper\bin\Debug\net8.0\Dapper.dll
+C:\Users\Yvan\All Projects\Visual Studio 2022 Projects\MyDapper\MyDapper\MyDapper\MyDapper\bin\Debug\net8.0\Dapper.SqlBuilder.dll
+C:\Users\Yvan\All Projects\Visual Studio 2022 Projects\MyDapper\MyDapper\MyDapper\MyDapper\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Yvan\All Projects\Visual Studio 2022 Projects\MyDapper\MyDapper\MyDapper\MyDapper\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Yvan\All Projects\Visual Studio 2022 Projects\MyDapper\MyDapper\MyDapper\MyDapper\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Yvan\All Projects\Visual Studio 2022 Projects\MyDapper\MyDapper\MyDapper\MyDapper\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Yvan\All Projects\Visual Studio 2022 Projects\MyDapper\MyDapper\MyDapper\MyDapper\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Yvan\All Projects\Visual Studio 2022 Projects\MyDapper\MyDapper\MyDapper\MyDapper\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Yvan\All Projects\Visual Studio 2022 Projects\MyDapper\MyDapper\MyDapper\MyDapper\obj\Debug\net8.0\MyDapper.csproj.AssemblyReference.cache
+C:\Users\Yvan\All Projects\Visual Studio 2022 Projects\MyDapper\MyDapper\MyDapper\MyDapper\obj\Debug\net8.0\MyDapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yvan\All Projects\Visual Studio 2022 Projects\MyDapper\MyDapper\MyDapper\MyDapper\obj\Debug\net8.0\MyDapper.AssemblyInfoInputs.cache
+C:\Users\Yvan\All Projects\Visual Studio 2022 Projects\MyDapper\MyDapper\MyDapper\MyDapper\obj\Debug\net8.0\MyDapper.AssemblyInfo.cs
+C:\Users\Yvan\All Projects\Visual Studio 2022 Projects\MyDapper\MyDapper\MyDapper\MyDapper\obj\Debug\net8.0\MyDapper.csproj.CoreCompileInputs.cache
+C:\Users\Yvan\All Projects\Visual Studio 2022 Projects\MyDapper\MyDapper\MyDapper\MyDapper\obj\Debug\net8.0\MyDapper.sourcelink.json
+C:\Users\Yvan\All Projects\Visual Studio 2022 Projects\MyDapper\MyDapper\MyDapper\MyDapper\obj\Debug\net8.0\MyDapper.csproj.Up2Date
+C:\Users\Yvan\All Projects\Visual Studio 2022 Projects\MyDapper\MyDapper\MyDapper\MyDapper\obj\Debug\net8.0\MyDapper.dll
+C:\Users\Yvan\All Projects\Visual Studio 2022 Projects\MyDapper\MyDapper\MyDapper\MyDapper\obj\Debug\net8.0\refint\MyDapper.dll
+C:\Users\Yvan\All Projects\Visual Studio 2022 Projects\MyDapper\MyDapper\MyDapper\MyDapper\obj\Debug\net8.0\MyDapper.pdb
+C:\Users\Yvan\All Projects\Visual Studio 2022 Projects\MyDapper\MyDapper\MyDapper\MyDapper\obj\Debug\net8.0\MyDapper.genruntimeconfig.cache
+C:\Users\Yvan\All Projects\Visual Studio 2022 Projects\MyDapper\MyDapper\MyDapper\MyDapper\obj\Debug\net8.0\ref\MyDapper.dll

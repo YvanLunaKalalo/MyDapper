@@ -15,13 +15,14 @@ namespace MyDapper.Repository
     public class GenericRepository<T> : IGenericRepository<T> where T : class
     {
         IDbConnection connection;
-        readonly string connectionstring = "(LocalDb)\\MSSQLLocalDb (DESKTOP-M2142QP\\student11)";
+       
+        readonly string connectionString = "SERVER=LAPTOP-450223SP\\SQLEXPRESS; Database=MyDapper; Trusted_Connection=True; MultipleActiveResultSets=true";
 
-        public object tableName => throw new NotImplementedException();
+        //public object tableName => throw new NotImplementedException();
 
         public GenericRepository()
         {
-            connection = new SqlConnection(connectionstring);
+            connection = new SqlConnection(connectionString);
         }
 
         public T GetbyId(int id)
@@ -31,18 +32,16 @@ namespace MyDapper.Repository
 
         public bool Add(T entity)
         {
-            string tablename = GetTableName();
-            string columns = GetColumnNames(true);
-            string values = GetColumnValues(true);
+            string tableName = GetTableName();
+            string columns = GetColumnNames();
+            string values = GetColumnValues();
             string query = $"INSERT INTO {tableName} ({columns}) VALUES ({values})";
 
             int affectedRow = 0;
-
             affectedRow = connection.Execute(query, entity);
-
             return affectedRow == 1;
 
-            throw new NotImplementedException();
+            
         }
         public bool Update(T entity)
         {
@@ -59,14 +58,14 @@ namespace MyDapper.Repository
             var tableAttr = type.GetCustomAttribute<TableAttribute>();
             if (tableAttr != null)
             {
-                tableName = tableAttr.Name;
+                tableName = $"[{tableAttr.Name}]";
             }
             return tableName;
 
         }
-        public string GetColumnNames(bool excludeKey = false)
+        public string GetColumnNames(bool excludeKey = true)
         {
-            string columnNames = "";
+            //string columnNames = "";
             var type = typeof(T);
             var columns = string.Join(", ", type.GetProperties()
                 .Where(p => !excludeKey || !p.IsDefined(typeof(KeyAttribute)))
@@ -79,7 +78,7 @@ namespace MyDapper.Repository
 
         }
 
-        public string GetColumnValues(bool excludeKey = false)
+        public string GetColumnValues(bool excludeKey = true)
         {
             var columnValues = typeof(T).GetProperties()
             .Where(p => !excludeKey || p.GetCustomAttribute<KeyAttribute>() == null);
@@ -88,6 +87,16 @@ namespace MyDapper.Repository
                 return $"@{p.Name}";
             }));
             return values;
+        }
+
+        public IEnumerable<T> GetAll()
+        {
+            throw new NotImplementedException();
+        }
+
+        public bool Delete(T entity)
+        {
+            throw new NotImplementedException();
         }
     }
 }

@@ -12,8 +12,9 @@ namespace MyDapper.Repository
     public interface IGenericRepository<T> where T : class
     {
         T GetbyId(int id);
+        IEnumerable<T> GetAll();
         bool Add(T entity);
         bool Update(T entity);
-        public bool Delete(int id);
+        public bool Delete(T entity);
     }
 }

@@ -538,11 +538,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yvan\\Downloads\\MyDapper-master\\MyDapper-master\\MyDapper\\MyDapper\\MyDapper.csproj",
+      "projectUniqueName": "C:\\Users\\Yvan\\All Projects\\Visual Studio 2022 Projects\\MyDapper\\MyDapper\\MyDapper\\MyDapper\\MyDapper.csproj",
       "projectName": "MyDapper",
-      "projectPath": "C:\\Users\\Yvan\\Downloads\\MyDapper-master\\MyDapper-master\\MyDapper\\MyDapper\\MyDapper.csproj",
+      "projectPath": "C:\\Users\\Yvan\\All Projects\\Visual Studio 2022 Projects\\MyDapper\\MyDapper\\MyDapper\\MyDapper\\MyDapper.csproj",
       "packagesPath": "C:\\Users\\Yvan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yvan\\Downloads\\MyDapper-master\\MyDapper-master\\MyDapper\\MyDapper\\obj\\",
+      "outputPath": "C:\\Users\\Yvan\\All Projects\\Visual Studio 2022 Projects\\MyDapper\\MyDapper\\MyDapper\\MyDapper\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

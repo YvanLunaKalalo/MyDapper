@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XsJ7ibXzV38=",
+  "dgSpecHash": "3mlYaIOYCcQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Yvan\\Downloads\\MyDapper-master\\MyDapper-master\\MyDapper\\MyDapper\\MyDapper.csproj",
+  "projectFilePath": "C:\\Users\\Yvan\\All Projects\\Visual Studio 2022 Projects\\MyDapper\\MyDapper\\MyDapper\\MyDapper\\MyDapper.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yvan\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
     "C:\\Users\\Yvan\\.nuget\\packages\\dapper.sqlbuilder\\2.0.78\\dapper.sqlbuilder.2.0.78.nupkg.sha512",
