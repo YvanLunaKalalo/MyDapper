@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{A97D55E4-B4A9-4E33-AC6C-44B2FCEB4C0A}|MyFirstAPI\\MyFirstAPI.csproj|solutionrelative:myfirstapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125BBEE8-BEAC-49C7-AC89-68A0F6CCE263}|MyDapper\\MyDapper.csproj|c:\\users\\yvan\\all projects\\visual studio 2022 projects\\mydapper\\mydapper\\mydapper\\mydapper\\model\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{125BBEE8-BEAC-49C7-AC89-68A0F6CCE263}|MyDapper\\MyDapper.csproj|solutionrelative:mydapper\\model\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{125BBEE8-BEAC-49C7-AC89-68A0F6CCE263}|MyDapper\\MyDapper.csproj|c:\\users\\yvan\\all projects\\visual studio 2022 projects\\mydapper\\mydapper\\mydapper\\mydapper\\service\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125BBEE8-BEAC-49C7-AC89-68A0F6CCE263}|MyDapper\\MyDapper.csproj|solutionrelative:mydapper\\service\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{125BBEE8-BEAC-49C7-AC89-68A0F6CCE263}|MyDapper\\MyDapper.csproj|c:\\users\\yvan\\all projects\\visual studio 2022 projects\\mydapper\\mydapper\\mydapper\\mydapper\\service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,28 +23,24 @@
       "RelativeMoniker": "D:0:0:{125BBEE8-BEAC-49C7-AC89-68A0F6CCE263}|MyDapper\\MyDapper.csproj|solutionrelative:mydapper\\repository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125BBEE8-BEAC-49C7-AC89-68A0F6CCE263}|MyDapper\\MyDapper.csproj|c:\\users\\yvan\\all projects\\visual studio 2022 projects\\mydapper\\mydapper\\mydapper\\mydapper\\repository\\subjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{125BBEE8-BEAC-49C7-AC89-68A0F6CCE263}|MyDapper\\MyDapper.csproj|solutionrelative:mydapper\\repository\\subjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{125BBEE8-BEAC-49C7-AC89-68A0F6CCE263}|MyDapper\\MyDapper.csproj|c:\\users\\yvan\\all projects\\visual studio 2022 projects\\mydapper\\mydapper\\mydapper\\mydapper\\model\\coursemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{125BBEE8-BEAC-49C7-AC89-68A0F6CCE263}|MyDapper\\MyDapper.csproj|solutionrelative:mydapper\\model\\coursemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{125BBEE8-BEAC-49C7-AC89-68A0F6CCE263}|MyDapper\\MyDapper.csproj|c:\\users\\yvan\\all projects\\visual studio 2022 projects\\mydapper\\mydapper\\mydapper\\mydapper\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{125BBEE8-BEAC-49C7-AC89-68A0F6CCE263}|MyDapper\\MyDapper.csproj|solutionrelative:mydapper\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{125BBEE8-BEAC-49C7-AC89-68A0F6CCE263}|MyDapper\\MyDapper.csproj|c:\\users\\yvan\\all projects\\visual studio 2022 projects\\mydapper\\mydapper\\mydapper\\mydapper\\repository\\instructorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125BBEE8-BEAC-49C7-AC89-68A0F6CCE263}|MyDapper\\MyDapper.csproj|solutionrelative:mydapper\\repository\\instructorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{125BBEE8-BEAC-49C7-AC89-68A0F6CCE263}|MyDapper\\MyDapper.csproj|c:\\users\\yvan\\all projects\\visual studio 2022 projects\\mydapper\\mydapper\\mydapper\\mydapper\\repository\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{125BBEE8-BEAC-49C7-AC89-68A0F6CCE263}|MyDapper\\MyDapper.csproj|solutionrelative:mydapper\\repository\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125BBEE8-BEAC-49C7-AC89-68A0F6CCE263}|MyDapper\\MyDapper.csproj|c:\\users\\yvan\\all projects\\visual studio 2022 projects\\mydapper\\mydapper\\mydapper\\mydapper\\model\\instructormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{125BBEE8-BEAC-49C7-AC89-68A0F6CCE263}|MyDapper\\MyDapper.csproj|solutionrelative:mydapper\\model\\instructormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{125BBEE8-BEAC-49C7-AC89-68A0F6CCE263}|MyDapper\\MyDapper.csproj|c:\\users\\yvan\\all projects\\visual studio 2022 projects\\mydapper\\mydapper\\mydapper\\mydapper\\model\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125BBEE8-BEAC-49C7-AC89-68A0F6CCE263}|MyDapper\\MyDapper.csproj|solutionrelative:mydapper\\model\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125BBEE8-BEAC-49C7-AC89-68A0F6CCE263}|MyDapper\\MyDapper.csproj|c:\\users\\yvan\\all projects\\visual studio 2022 projects\\mydapper\\mydapper\\mydapper\\mydapper\\service\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{125BBEE8-BEAC-49C7-AC89-68A0F6CCE263}|MyDapper\\MyDapper.csproj|solutionrelative:mydapper\\service\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{125BBEE8-BEAC-49C7-AC89-68A0F6CCE263}|MyDapper\\MyDapper.csproj|c:\\users\\yvan\\all projects\\visual studio 2022 projects\\mydapper\\mydapper\\mydapper\\mydapper\\model\\coursemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125BBEE8-BEAC-49C7-AC89-68A0F6CCE263}|MyDapper\\MyDapper.csproj|solutionrelative:mydapper\\model\\coursemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125BBEE8-BEAC-49C7-AC89-68A0F6CCE263}|MyDapper\\MyDapper.csproj|c:\\users\\yvan\\all projects\\visual studio 2022 projects\\mydapper\\mydapper\\mydapper\\mydapper\\model\\instructormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125BBEE8-BEAC-49C7-AC89-68A0F6CCE263}|MyDapper\\MyDapper.csproj|solutionrelative:mydapper\\model\\instructormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{125BBEE8-BEAC-49C7-AC89-68A0F6CCE263}|MyDapper\\MyDapper.csproj|c:\\users\\yvan\\all projects\\visual studio 2022 projects\\mydapper\\mydapper\\mydapper\\mydapper\\model\\enrollmentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,12 +51,16 @@
       "RelativeMoniker": "D:0:0:{125BBEE8-BEAC-49C7-AC89-68A0F6CCE263}|MyDapper\\MyDapper.csproj|solutionrelative:mydapper\\model\\subjectmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125BBEE8-BEAC-49C7-AC89-68A0F6CCE263}|MyDapper\\MyDapper.csproj|c:\\users\\yvan\\all projects\\visual studio 2022 projects\\mydapper\\mydapper\\mydapper\\mydapper\\repository\\enrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{125BBEE8-BEAC-49C7-AC89-68A0F6CCE263}|MyDapper\\MyDapper.csproj|solutionrelative:mydapper\\repository\\enrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{125BBEE8-BEAC-49C7-AC89-68A0F6CCE263}|MyDapper\\MyDapper.csproj|c:\\users\\yvan\\all projects\\visual studio 2022 projects\\mydapper\\mydapper\\mydapper\\mydapper\\repository\\subjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125BBEE8-BEAC-49C7-AC89-68A0F6CCE263}|MyDapper\\MyDapper.csproj|solutionrelative:mydapper\\repository\\subjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125BBEE8-BEAC-49C7-AC89-68A0F6CCE263}|MyDapper\\MyDapper.csproj|c:\\users\\yvan\\all projects\\visual studio 2022 projects\\mydapper\\mydapper\\mydapper\\mydapper\\repository\\instructorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{125BBEE8-BEAC-49C7-AC89-68A0F6CCE263}|MyDapper\\MyDapper.csproj|solutionrelative:mydapper\\repository\\instructorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{125BBEE8-BEAC-49C7-AC89-68A0F6CCE263}|MyDapper\\MyDapper.csproj|c:\\users\\yvan\\all projects\\visual studio 2022 projects\\mydapper\\mydapper\\mydapper\\mydapper\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125BBEE8-BEAC-49C7-AC89-68A0F6CCE263}|MyDapper\\MyDapper.csproj|solutionrelative:mydapper\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125BBEE8-BEAC-49C7-AC89-68A0F6CCE263}|MyDapper\\MyDapper.csproj|c:\\users\\yvan\\all projects\\visual studio 2022 projects\\mydapper\\mydapper\\mydapper\\mydapper\\repository\\enrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125BBEE8-BEAC-49C7-AC89-68A0F6CCE263}|MyDapper\\MyDapper.csproj|solutionrelative:mydapper\\repository\\enrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -80,7 +80,7 @@
               "RelativeDocumentMoniker": "MyFirstAPI\\Controllers\\StudentController.cs",
               "ToolTip": "C:\\Users\\Yvan\\All Projects\\Visual Studio 2022 Projects\\MyDapper\\MyDapper\\MyDapper\\MyFirstAPI\\Controllers\\StudentController.cs",
               "RelativeToolTip": "MyFirstAPI\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-25T05:53:10.361Z",
               "IsPinned": true,
@@ -94,7 +94,7 @@
               "RelativeDocumentMoniker": "MyDapper\\Service\\StudentService.cs",
               "ToolTip": "C:\\Users\\Yvan\\All Projects\\Visual Studio 2022 Projects\\MyDapper\\MyDapper\\MyDapper\\MyDapper\\Service\\StudentService.cs",
               "RelativeToolTip": "MyDapper\\Service\\StudentService.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAnwBEAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAnwBEAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-25T03:32:32.436Z",
               "IsPinned": true,
@@ -106,19 +106,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
               "Title": "CourseService.cs",
               "DocumentMoniker": "C:\\Users\\Yvan\\All Projects\\Visual Studio 2022 Projects\\MyDapper\\MyDapper\\MyDapper\\MyDapper\\Service\\CourseService.cs",
               "RelativeDocumentMoniker": "MyDapper\\Service\\CourseService.cs",
               "ToolTip": "C:\\Users\\Yvan\\All Projects\\Visual Studio 2022 Projects\\MyDapper\\MyDapper\\MyDapper\\MyDapper\\Service\\CourseService.cs",
               "RelativeToolTip": "MyDapper\\Service\\CourseService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T03:32:31.85Z"
+              "WhenOpened": "2024-08-25T03:32:31.85Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "EnrollmentRepository.cs",
               "DocumentMoniker": "C:\\Users\\Yvan\\All Projects\\Visual Studio 2022 Projects\\MyDapper\\MyDapper\\MyDapper\\MyDapper\\Repository\\EnrollmentRepository.cs",
               "RelativeDocumentMoniker": "MyDapper\\Repository\\EnrollmentRepository.cs",
@@ -126,11 +127,12 @@
               "RelativeToolTip": "MyDapper\\Repository\\EnrollmentRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T03:56:32.583Z"
+              "WhenOpened": "2024-08-25T03:56:32.583Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 5,
               "Title": "InstructorRepository.cs",
               "DocumentMoniker": "C:\\Users\\Yvan\\All Projects\\Visual Studio 2022 Projects\\MyDapper\\MyDapper\\MyDapper\\MyDapper\\Repository\\InstructorRepository.cs",
               "RelativeDocumentMoniker": "MyDapper\\Repository\\InstructorRepository.cs",
@@ -138,11 +140,12 @@
               "RelativeToolTip": "MyDapper\\Repository\\InstructorRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T03:54:39.783Z"
+              "WhenOpened": "2024-08-25T03:54:39.783Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "StudentRepository.cs",
               "DocumentMoniker": "C:\\Users\\Yvan\\All Projects\\Visual Studio 2022 Projects\\MyDapper\\MyDapper\\MyDapper\\MyDapper\\Repository\\StudentRepository.cs",
               "RelativeDocumentMoniker": "MyDapper\\Repository\\StudentRepository.cs",
@@ -150,7 +153,8 @@
               "RelativeToolTip": "MyDapper\\Repository\\StudentRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T03:32:31.082Z"
+              "WhenOpened": "2024-08-25T03:32:31.082Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -173,14 +177,14 @@
               "RelativeDocumentMoniker": "MyDapper\\Repository\\GenericRepository.cs",
               "ToolTip": "C:\\Users\\Yvan\\All Projects\\Visual Studio 2022 Projects\\MyDapper\\MyDapper\\MyDapper\\MyDapper\\Repository\\GenericRepository.cs",
               "RelativeToolTip": "MyDapper\\Repository\\GenericRepository.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAowCgAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAswCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-25T03:32:29.915Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "SubjectRepository.cs",
               "DocumentMoniker": "C:\\Users\\Yvan\\All Projects\\Visual Studio 2022 Projects\\MyDapper\\MyDapper\\MyDapper\\MyDapper\\Repository\\SubjectRepository.cs",
               "RelativeDocumentMoniker": "MyDapper\\Repository\\SubjectRepository.cs",
@@ -193,7 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "CourseRepository.cs",
               "DocumentMoniker": "C:\\Users\\Yvan\\All Projects\\Visual Studio 2022 Projects\\MyDapper\\MyDapper\\MyDapper\\MyDapper\\Repository\\CourseRepository.cs",
               "RelativeDocumentMoniker": "MyDapper\\Repository\\CourseRepository.cs",
@@ -201,31 +205,34 @@
               "RelativeToolTip": "MyDapper\\Repository\\CourseRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T03:32:28.971Z"
+              "WhenOpened": "2024-08-25T03:32:28.971Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "EnrollmentModel.cs",
               "DocumentMoniker": "C:\\Users\\Yvan\\All Projects\\Visual Studio 2022 Projects\\MyDapper\\MyDapper\\MyDapper\\MyDapper\\Model\\EnrollmentModel.cs",
               "RelativeDocumentMoniker": "MyDapper\\Model\\EnrollmentModel.cs",
               "ToolTip": "C:\\Users\\Yvan\\All Projects\\Visual Studio 2022 Projects\\MyDapper\\MyDapper\\MyDapper\\MyDapper\\Model\\EnrollmentModel.cs",
               "RelativeToolTip": "MyDapper\\Model\\EnrollmentModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T03:48:50.466Z"
+              "WhenOpened": "2024-08-25T03:48:50.466Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "SubjectModel.cs",
               "DocumentMoniker": "C:\\Users\\Yvan\\All Projects\\Visual Studio 2022 Projects\\MyDapper\\MyDapper\\MyDapper\\MyDapper\\Model\\SubjectModel.cs",
               "RelativeDocumentMoniker": "MyDapper\\Model\\SubjectModel.cs",
               "ToolTip": "C:\\Users\\Yvan\\All Projects\\Visual Studio 2022 Projects\\MyDapper\\MyDapper\\MyDapper\\MyDapper\\Model\\SubjectModel.cs",
               "RelativeToolTip": "MyDapper\\Model\\SubjectModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T03:47:47.191Z"
+              "WhenOpened": "2024-08-25T03:47:47.191Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -235,13 +242,14 @@
               "RelativeDocumentMoniker": "MyDapper\\Model\\InstructorModel.cs",
               "ToolTip": "C:\\Users\\Yvan\\All Projects\\Visual Studio 2022 Projects\\MyDapper\\MyDapper\\MyDapper\\MyDapper\\Model\\InstructorModel.cs",
               "RelativeToolTip": "MyDapper\\Model\\InstructorModel.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T03:45:30.173Z"
+              "WhenOpened": "2024-08-25T03:45:30.173Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "StudentModel.cs",
               "DocumentMoniker": "C:\\Users\\Yvan\\All Projects\\Visual Studio 2022 Projects\\MyDapper\\MyDapper\\MyDapper\\MyDapper\\Model\\StudentModel.cs",
               "RelativeDocumentMoniker": "MyDapper\\Model\\StudentModel.cs",
@@ -254,13 +262,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "CourseModel.cs",
               "DocumentMoniker": "C:\\Users\\Yvan\\All Projects\\Visual Studio 2022 Projects\\MyDapper\\MyDapper\\MyDapper\\MyDapper\\Model\\CourseModel.cs",
               "RelativeDocumentMoniker": "MyDapper\\Model\\CourseModel.cs",
               "ToolTip": "C:\\Users\\Yvan\\All Projects\\Visual Studio 2022 Projects\\MyDapper\\MyDapper\\MyDapper\\MyDapper\\Model\\CourseModel.cs",
               "RelativeToolTip": "MyDapper\\Model\\CourseModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-25T03:32:23.515Z",
               "EditorCaption": ""

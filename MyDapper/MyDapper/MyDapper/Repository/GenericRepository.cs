@@ -39,18 +39,19 @@ namespace MyDapper.Repository
 
             int affectedRow = 0;
             affectedRow = connection.Execute(query, entity);
-            return affectedRow == 1;
-
-            
+            return affectedRow == 1; 
         }
+
         public bool Update(T entity)
         {
             throw new NotImplementedException();
         }
+
         public bool Delete(int id)
         {
             throw new NotImplementedException();
         }
+
         public string GetTableName()
         {
             string tableName = "";
@@ -61,8 +62,8 @@ namespace MyDapper.Repository
                 tableName = $"[{tableAttr.Name}]";
             }
             return tableName;
-
         }
+
         public string GetColumnNames(bool excludeKey = true)
         {
             //string columnNames = "";
@@ -75,7 +76,6 @@ namespace MyDapper.Repository
                     return columnAttr != null ? columnAttr.Name : p.Name;
                 }));
             return columns;
-
         }
 
         public string GetColumnValues(bool excludeKey = true)

@@ -12,11 +12,8 @@ namespace MyDapper.Model
     public class CourseModel
     {
         [Key]
-        [Column("CourseId")]
         public int Id { get; set; }
-        [Column("Course_Name")]
-        public string CourseName { get; set; }
-        [Column("Description")]
+        public string Course_Name { get; set; }
         public string Description { get; set; }
     }
 }

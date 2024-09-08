@@ -12,11 +12,8 @@ namespace MyDapper.Model
     public class InstructorModel
     {
         [Key]
-        [Column("InstructorId")]
-        public int Id { get; set; }
-        [Column("First_Name")]
-        public string FirstName { get; set; }
-        [Column("Last_Name")]
-        public string LastName { get; set; }
+        public int InstructorId { get; set; }
+        public string First_Name { get; set; }
+        public string Last_Name { get; set; }
     }
 }

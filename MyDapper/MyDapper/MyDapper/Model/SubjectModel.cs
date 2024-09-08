@@ -12,11 +12,8 @@ namespace MyDapper.Model
     public class SubjectModel
     {
         [Key]
-        [Column("SubjectId")]
-        public int Id { get; set; }
-        [Column("SubjectName")]
-        public string SubjectName { get; set; }
-        [Column("Description")]
+        public int SubjectId { get; set; }
+        public string Subject_Name { get; set; }
         public string Description { get; set; }
     }
 }

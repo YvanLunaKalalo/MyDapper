@@ -12,11 +12,8 @@ namespace MyDapper.Model
     public class EnrollmentModel
     {
         [Key]
-        [Column("EnrollmentId")]
-        public int Id { get; set; }
-        [Column("Status")]
+        public int EnrollmentId { get; set; }
         public string Status { get; set; }
-        [Column("Description")]
         public string Description { get; set; }
 
     }
