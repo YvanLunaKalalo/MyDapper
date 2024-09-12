@@ -75,7 +75,6 @@ C:\Users\Yvan\All Projects\Visual Studio 2022 Projects\MyDapper\MyDapper\MyDappe
 C:\Users\Yvan\All Projects\Visual Studio 2022 Projects\MyDapper\MyDapper\MyDapper\MyFirstAPI\obj\Debug\net8.0\MyFirstAPI.csproj.CoreCompileInputs.cache
 C:\Users\Yvan\All Projects\Visual Studio 2022 Projects\MyDapper\MyDapper\MyDapper\MyFirstAPI\obj\Debug\net8.0\MyFirstAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Yvan\All Projects\Visual Studio 2022 Projects\MyDapper\MyDapper\MyDapper\MyFirstAPI\obj\Debug\net8.0\MyFirstAPI.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Yvan\All Projects\Visual Studio 2022 Projects\MyDapper\MyDapper\MyDapper\MyFirstAPI\obj\Debug\net8.0\MyFirstAPI.sourcelink.json
 C:\Users\Yvan\All Projects\Visual Studio 2022 Projects\MyDapper\MyDapper\MyDapper\MyFirstAPI\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Yvan\All Projects\Visual Studio 2022 Projects\MyDapper\MyDapper\MyDapper\MyFirstAPI\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\Yvan\All Projects\Visual Studio 2022 Projects\MyDapper\MyDapper\MyDapper\MyFirstAPI\obj\Debug\net8.0\staticwebassets\msbuild.MyFirstAPI.Microsoft.AspNetCore.StaticWebAssets.props

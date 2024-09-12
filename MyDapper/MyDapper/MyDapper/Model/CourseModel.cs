@@ -12,7 +12,7 @@ namespace MyDapper.Model
     public class CourseModel
     {
         [Key]
-        public int Id { get; set; }
+        public int CourseId { get; set; }
         public string Course_Name { get; set; }
         public string Description { get; set; }
     }

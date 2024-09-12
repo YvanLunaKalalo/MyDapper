@@ -40,7 +40,6 @@ C:\Users\Yvan\All Projects\Visual Studio 2022 Projects\MyDapper\MyDapper\MyDappe
 C:\Users\Yvan\All Projects\Visual Studio 2022 Projects\MyDapper\MyDapper\MyDapper\MyDapper\obj\Debug\net8.0\MyDapper.AssemblyInfoInputs.cache
 C:\Users\Yvan\All Projects\Visual Studio 2022 Projects\MyDapper\MyDapper\MyDapper\MyDapper\obj\Debug\net8.0\MyDapper.AssemblyInfo.cs
 C:\Users\Yvan\All Projects\Visual Studio 2022 Projects\MyDapper\MyDapper\MyDapper\MyDapper\obj\Debug\net8.0\MyDapper.csproj.CoreCompileInputs.cache
-C:\Users\Yvan\All Projects\Visual Studio 2022 Projects\MyDapper\MyDapper\MyDapper\MyDapper\obj\Debug\net8.0\MyDapper.sourcelink.json
 C:\Users\Yvan\All Projects\Visual Studio 2022 Projects\MyDapper\MyDapper\MyDapper\MyDapper\obj\Debug\net8.0\MyDapper.csproj.Up2Date
 C:\Users\Yvan\All Projects\Visual Studio 2022 Projects\MyDapper\MyDapper\MyDapper\MyDapper\obj\Debug\net8.0\MyDapper.dll
 C:\Users\Yvan\All Projects\Visual Studio 2022 Projects\MyDapper\MyDapper\MyDapper\MyDapper\obj\Debug\net8.0\refint\MyDapper.dll

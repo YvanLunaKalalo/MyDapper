@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace MyDapper.Model
 {
-    [Table("Subject")]
+    [Table("Subjects")]
     public class SubjectModel
     {
         [Key]

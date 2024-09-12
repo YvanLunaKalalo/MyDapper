@@ -17,5 +17,10 @@ namespace MyDapper.Service
             courseRepository = new CourseRepository();
             return courseRepository.GetbyId(id);
         }
+        public bool AddCourse(CourseModel course)
+        {
+            courseRepository = new CourseRepository();
+            return courseRepository.Add(course);
+        }
     }
 }

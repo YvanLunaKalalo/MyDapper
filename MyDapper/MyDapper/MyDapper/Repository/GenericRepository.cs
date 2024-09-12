@@ -30,6 +30,11 @@ namespace MyDapper.Repository
             return null;
         }
 
+        public IEnumerable<T> GetAll()
+        {
+            throw new NotImplementedException();
+        }
+
         public bool Add(T entity)
         {
             string tableName = GetTableName();
@@ -87,11 +92,6 @@ namespace MyDapper.Repository
                 return $"@{p.Name}";
             }));
             return values;
-        }
-
-        public IEnumerable<T> GetAll()
-        {
-            throw new NotImplementedException();
         }
 
         public bool Delete(T entity)
